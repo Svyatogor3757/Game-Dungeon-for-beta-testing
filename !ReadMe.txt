@@ -1,30 +1,3 @@
-To start the game, run the file Main_StartGame.m
-All files from the archive must be present in the root of the directory.
-Dialogs can be translated into another language Data/Dialogs
-The game is optimized for a resolution of 1920x1080, it is not recommended to play if you have a resolution less than 800x600, because if the screen is smaller, the
-optimization of dialogs breaks down.
-
-Install the GOST FONT in the Data/Fonts/GOST folder
-
-The game has a Debug mod, which is included in the Game.m file in line 6
-is_Debug = 1; % Additional functions for easy debugging
-Debug mod allows you to: get coordinates when you click the left mouse button, see hitboxes of collisions and interactions, teleport with the middle mouse button, scale, move the map.
-
-https://drive.google.com/file/d/1cxFslrAkDng6sKWECCrLdnJ5o6zDmDh7/view
-
-Demonstration of MATLAB capabilities using the example of a game.
-Figure, image, rectangle, text interactions, frame by frame animation, code structuring.
-You play as a skeleton whose purpose in life is to test the dungeon. Will you be able to overcome all the trials or upset the Architect who gave you a second life? Solve puzzles, complete errands, and maybe you will be given freedom or, in extreme cases, you will be able to escape from here.
-When you wake up, you see a creature similar to an octopus, which is waiting for your awakening.
-There is emptiness in your head, you do not remember what happened before awakening. Nothing. Look down and see
-that something is wrong with your body.
-You: - WHAT? Am I a skeleton?
-Hmm, why don't I remember ... not the name, not how I got here, not what happened to me
-While you were trying to figure out what was happening, your thoughts were interrupted by an octopus.
-
-A: - Greetings mortal!
-
-____________________________________RUSSIAN____________________________________
 Для начала игры запустить файл Main_StartGame.m.
 В корне каталога должны присутсвовать все файлы из архива.
 Игра оптимизирована для разрешения 1920х1080, не рекомендуется играть, если у вас разрешение меньше 800х600, так как если экран меньше, 
@@ -52,4 +25,37 @@ https://drive.google.com/file/d/1cxFslrAkDng6sKWECCrLdnJ5o6zDmDh7/view
 Пока вы пытались понять, что происходит, ваши раздумья прервал осьминог.
 
 А: -Приветствую тебя смертный!
+
+
+
+
+
+____________________________________ENGLISH____________________________________
+
+To start the game, run the file Main_StartGame.m
+All files from the archive must be present in the root of the directory.
+Dialogs can be translated into another language Data/Dialogs
+The game is optimized for a resolution of 1920x1080, it is not recommended to play if you have a resolution less than 800x600, because if the screen is smaller, the
+optimization of dialogs breaks down.
+
+Install the GOST FONT in the Data/Fonts/GOST folder
+
+The game has a Debug mod, which is included in the Game.m file in line 6
+is_Debug = 1; % Additional functions for easy debugging
+Debug mod allows you to: get coordinates when you click the left mouse button, see hitboxes of collisions and interactions, teleport with the middle mouse button, scale, move the map.
+
+https://drive.google.com/file/d/1cxFslrAkDng6sKWECCrLdnJ5o6zDmDh7/view
+
+Demonstration of MATLAB capabilities using the example of a game.
+Figure, image, rectangle, text interactions, frame by frame animation, code structuring.
+You play as a skeleton whose purpose in life is to test the dungeon. Will you be able to overcome all the trials or upset the Architect who gave you a second life? Solve puzzles, complete errands, and maybe you will be given freedom or, in extreme cases, you will be able to escape from here.
+When you wake up, you see a creature similar to an octopus, which is waiting for your awakening.
+There is emptiness in your head, you do not remember what happened before awakening. Nothing. Look down and see
+that something is wrong with your body.
+You: - WHAT? Am I a skeleton?
+Hmm, why don't I remember ... not the name, not how I got here, not what happened to me
+While you were trying to figure out what was happening, your thoughts were interrupted by an octopus.
+
+A: - Greetings mortal!
+
 

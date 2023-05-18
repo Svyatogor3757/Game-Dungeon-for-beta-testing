@@ -1,0 +1,7 @@
+В:
+    %за фигурой
+                cx_ = player.Person.XData(1) < Back.XData(1); 
+                cy_ = player.Person.YData(1) < Back.YData(1);
+                %перед фигурой
+                cx = player.Person.XData(2) > Back.XData(1) + Back.XData(2);
+                cy = player.Person.YData(2) > Back.YData(1) + Back.YData(2);
