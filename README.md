@@ -23,6 +23,26 @@ Hmm, why don't I remember ... not the name, not how I got here, not what happene
 While you were trying to figure out what was happening, your thoughts were interrupted by an octopus.
 
 A: - Greetings mortal!
+<<<<<<< HEAD
+=======
+
+>>>>>>> parent of 837a23a... Update README.md
+![Screen_1](Screen_1.png)
+![Screen_2](Screen_2.png)
+
+For entertainment, there are cheat codes:
+
+mega laser power - solves the riddle with a laser
+
+Givemebandana - Gives Forever a Ricardo Milos Bandana
+
+deadteleport - replaces teleport with death teleport
+
+killme - kills the character
+
+alwayskillme - HAAHAHAHAHAHAHAHAHA
+
+debugmode - enables debugging mode (sred.klav.mouse - teleport to the cursor, all collisions are visible)
 
 ____________________________________RUSSIAN____________________________________
 Для начала игры запустить файл Main_StartGame.m.
@@ -53,3 +73,21 @@ https://drive.google.com/file/d/1cxFslrAkDng6sKWECCrLdnJ5o6zDmDh7/view
 
 А: -Приветствую тебя смертный!
 
+<<<<<<< HEAD
+![Intro_EN](Data/Images/Intro_ru.png)
+
+Для развлечения есть чит коды:
+
+mega laser power - разгадывает загадку с лазером
+
+givemebandana - даёт навсегда бандану рикардо милоса
+
+deadteleport - заменяет телепорт на смерть телепорт
+
+killme - убивает персонажа
+
+alwayskillme - ХААХАХАХХАХАХАХАХА
+
+debugmode - включает режим отладки (сред.клав.мыши - телепорт в курсор, видны все коллизии)
+=======
+>>>>>>> parent of 837a23a... Update README.md
