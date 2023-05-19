@@ -1,4 +1,4 @@
- function Main
+ function Game
  %%Начальная конфигурация
     close all;
     global stray_number
