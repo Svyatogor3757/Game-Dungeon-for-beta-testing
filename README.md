@@ -1,9 +1,17 @@
 ![Intro_EN](Data/Images/Intro_EN.png)
 Language: Russian, English
 
+To launch the finished game:
+
+1. Download the packaged game via the [Game App EXE](Game App EXE) path or [download here](Game App EXE/GameAppEXE.zip).
+
+2. Install the "MATLAB Runtime" package for version 9.8 (R2020a) https://www.mathworks.com/products/compiler/matlab-runtime.html .
+
+3. Run the file DungeonTester.exe
+
+To launch the source game:
 Allocate more memory to the game! (for a comfortable game) Выделите игре больше памяти! (для комфортной игры)
 HOME->Preferences->General->Java heap memory (more than 900mb) (2000 recommend)
-
 To start the game, run the file Main_StartGame.m
 All files from the archive must be present in the root of the directory.
 Dialogs can be translated into another language Data/Dialogs
@@ -48,7 +56,15 @@ alwayskillme - HAAHAHAHAHAHAHAHAHA
 debugmode - enables debugging mode (sred.klav.mouse - teleport to the cursor, all collisions are visible)
 
 ____________________________________RUSSIAN____________________________________
+Для запуска конечной игры:
 
+1. Скачайте игру из директории [Game App EXE](Game App EXE) или [скачайте здесь](Game App EXE/GameAppEXE.zip).
+
+2. Установите пакет "MATLAB Runtime" для версии 9.8 (R2020a) https://www.mathworks.com/products/compiler/matlab-runtime.html .
+
+3. Запустите игру DungeonTester.exe
+
+Для запуска игры из исходного кода:
 Для начала игры запустить файл Main_StartGame.m.
 В корне каталога должны присутсвовать все файлы из архива.
 Игра оптимизирована для разрешения 1920х1080, не рекомендуется играть, если у вас разрешение меньше 800х600, так как если экран меньше, 

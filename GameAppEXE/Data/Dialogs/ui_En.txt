@@ -1,0 +1,5 @@
+"Game"
+"How to play"
+"Exit"
+"Ru"
+"En"
